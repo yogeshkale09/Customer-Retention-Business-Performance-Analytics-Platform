@@ -107,9 +107,9 @@ This page focuses on **customer purchasing behavior and regional sales performan
 
 📷 **Dashboard Preview**
 
-```
-[(Add screenshot of Customer & Regional Dashboard here)](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Customer%20%26%20Regional%20Analysis.png)
-```
+
+![image alt](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Customer%20%26%20Regional%20Analysis.png)
+
 
 ---
 
@@ -127,8 +127,8 @@ This page analyzes **product-level sales performance**.
 📷 **Dashboard Preview**
 
 ```
-[(Add screenshot of Product Performance Dashboard here)](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Product%20Performance%20Analysis.png)
-```
+![image alt](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Product%20Performance%20Analysis.png)
+
 
 ---
 
