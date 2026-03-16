@@ -1,0 +1,2 @@
+# Customer-Retention-Business-Performance-Analytics-Platform
+This project focuses on analyzing retail sales data of technology products using Power BI. The goal is to transform raw transactional data into meaningful business insights through interactive dashboards. The analysis highlights sales performance, customer behavior, product contribution, and regional trends to support data-driven decision making.
