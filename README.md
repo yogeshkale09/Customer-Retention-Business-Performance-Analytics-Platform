@@ -89,9 +89,9 @@ This page provides a **high-level summary of overall business performance**.
 
 📷 **Dashboard Preview**
 
-```
+
 ![image alt](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Dashboard%20Preview.png)
-```
+
 
 ---
 
