@@ -126,7 +126,7 @@ This page analyzes **product-level sales performance**.
 
 📷 **Dashboard Preview**
 
-```
+
 ![image alt](https://github.com/yogeshkale09/Customer-Retention-Business-Performance-Analytics-Platform/blob/fd5d47ad0740a572d3a377c36178086f03c4ddfe/Product%20Performance%20Analysis.png)
 
 
